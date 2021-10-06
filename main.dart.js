@@ -55502,7 +55502,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 F.Bi.prototype={
-P:function(a,b){return new S.rV(new X.ib(null),"Word Puzzle",X.ada(null,C.aS,C.as),null)}}
+P:function(a,b){return new S.rV(new X.ib(null),"English Word Puzzle",X.ada(null,C.aS,C.as),null)}}
 K.kT.prototype={
 aI:function(){return new K.GD(new N.bp(null,t.s7),"http://172.20.10.8/api/getQuestion.php",C.m)}}
 K.GD.prototype={
